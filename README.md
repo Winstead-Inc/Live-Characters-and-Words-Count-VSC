@@ -67,11 +67,6 @@ To build this extension locally, you will need:
    ```
 5. Press `F5` to open a new Extension Development Host window with the extension loaded.
 
-## 👏 Credits
-
-This extension is based on the original work by **Oliver Kovacs**, adapted to include a character count.  
-The original project was licensed under the **MIT License**, allowing modifications and redistribution.
-
 ## 📜 License
 
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** - see the [LICENSE.md](LICENSE.md) file for details.
